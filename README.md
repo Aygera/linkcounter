@@ -2,7 +2,7 @@ This is a simple apllication that fetches links from the wiki page.
 
 It can be run in two modes GUI or command line.
 
-GUI mode runs without any argumetns, if argument is passed, then app will act in command lime mode.
+GUI mode runs without any arguments, if argument is passed, then app will act in a command lime mode.
 
 The results are presented in raw format without any preliminary prettify functions.
 
